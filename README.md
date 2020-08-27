@@ -32,7 +32,7 @@ This was made for an University Assignment in which we had to make an interactiv
 
 
 ## Demo
-<a href="#"><h2>Checkout the live demo here</h2></a>
+<a href="https://darshkpatel.github.io/MusiX-Grid"><h2>Checkout the live demo here</h2></a>
 
 ## Screenshots
 
