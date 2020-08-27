@@ -36,6 +36,7 @@ This was made for an University Assignment in which we had to make an interactiv
 
 ## Screenshots
 
+<img src="./readme_assets/demo.gif" width=600 alt="Demogif" />
 <img src="./readme_assets/1.png" width=600 alt="DemoScreenshot" />
 <img src="./readme_assets/2.png" width=600 alt="DemoScreenshot" />
 <img src="./readme_assets/3.png" width=600 alt="DemoScreenshot" />
